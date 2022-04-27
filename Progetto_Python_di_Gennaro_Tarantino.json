@@ -1,0 +1,93 @@
+{
+  "Data": "2022-04-27 16:33:31.702502",
+  "Le Migliore Cryptovaluta per volume scambiato nelle ultime 24h": "USDT",
+  "Le Migliori 10 Cryptovalute per cambio percentuale nelle ultime 24h": [
+    [
+      "SCRT",
+      10.03351446
+    ],
+    [
+      "APE",
+      5.7938014
+    ],
+    [
+      "AR",
+      5.39256886
+    ],
+    [
+      "CVX",
+      5.09645035
+    ],
+    [
+      "WAVES",
+      1.81982704
+    ],
+    [
+      "AVAX",
+      1.55102997
+    ],
+    [
+      "NEXO",
+      1.28982469
+    ],
+    [
+      "HNT",
+      1.27582444
+    ],
+    [
+      "KSM",
+      1.05276036
+    ],
+    [
+      "UST",
+      0.08441116
+    ]
+  ],
+  "Le Peggiori 10 Cryptovalute per cambio percentuale nelle ultime 24h": [
+    [
+      "GRT",
+      -12.46519735
+    ],
+    [
+      "XMR",
+      -11.47946545
+    ],
+    [
+      "ZEC",
+      -9.40738305
+    ],
+    [
+      "DOGE",
+      -9.35148539
+    ],
+    [
+      "NEAR",
+      -9.01664726
+    ],
+    [
+      "SNX",
+      -8.3264503
+    ],
+    [
+      "CRV",
+      -7.74767737
+    ],
+    [
+      "GLMR",
+      -7.55340697
+    ],
+    [
+      "LUNA",
+      -6.09427231
+    ],
+    [
+      "KLAY",
+      -5.80931662
+    ]
+  ],
+  "Quantita di denaro necessaria per tutte le criptovalute il cui volume delle ultime 24 ore sia superiore a 76.000.000": 84169.82668251153,
+  "Quantita di denaro necessaria per 1 Unit\u00e0 delle prime 20 Coin": 80795.34173514823,
+  "Capitale di oggi": 80795.34173514823,
+  "Capitale di ieri": 78694.41523198102,
+  "La percentuale di profitto / perdita ": 2.6697275746620006
+}
